@@ -1,0 +1,13 @@
+{
+  "name": "neo4j-poc-server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.19.0",
+    "neo4j-driver": "^5.23.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
